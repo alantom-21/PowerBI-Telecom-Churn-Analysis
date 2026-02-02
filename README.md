@@ -64,8 +64,8 @@ Churn increased in recent years
 
 Excel | SQL | Power BI
 
-📷 DASHBOARD PREVIEW
-![Dashboard Preview](dashboard.png)
+📷 DASHBOARD PREVIEW [Dashboard Preview](dashboard.png)
+
 
 📁 FILES INCLUDED
 * Power BI dashboard file
